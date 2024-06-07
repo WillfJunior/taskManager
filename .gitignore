@@ -1,0 +1,27 @@
+# Arquivos gerados pelo npm
+node_modules/
+
+# Arquivos de build
+build/
+dist/
+*.log
+*.lock
+
+# Arquivos específicos de ambiente (exemplo: .env)
+.env*
+
+# Arquivos de dependências
+package-lock.json
+yarn.lock
+
+# Arquivos de cache
+.cache/
+
+# Arquivos temporários
+.tmp/
+
+# Arquivos de logs
+logs/
+
+# Arquivos de teste
+coverage/
